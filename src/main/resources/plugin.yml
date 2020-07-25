@@ -1,0 +1,7 @@
+name:  RankUpCustomRequirements
+version: 1.0
+main: fr.pringleszombie.rankupcustomrequirements.RankUpCustomRequirementsPlugin
+description: RankUpCustomRequirements provides custom requirements for the RankUp plugin.
+api: 1.15
+depend: [Rankup]
+
